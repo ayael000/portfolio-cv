@@ -11,14 +11,14 @@ body{
 
 .wrapper{
   position: absolute;
-  top: 85%;
+  top: 83%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
 
 .container{
   width: 280px;
-  height: 900px;
+  height: 890px;
   background: #fff;
   position: relative;
   border-radius: 10px;
